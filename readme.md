@@ -12,7 +12,11 @@
 后端框架：springboot、Mybatis
 
 前端技术：easyui、freemarker、html、css、JavaScript、JQuery
+## 获取方式
 
+关注公众号： **程序员王不二**，回复关键词  ：**员工** ，获取完整版源码
+
+![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 ## 3、开发环境
 
 - JAVA版本：JDK1.8
