@@ -12,11 +12,7 @@
 后端框架：springboot、Mybatis
 
 前端技术：easyui、freemarker、html、css、JavaScript、JQuery
-## 获取方式
 
-关注公众号： **程序员王不二**，回复关键词  ：**员工** ，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 ## 3、开发环境
 
 - JAVA版本：JDK1.8
@@ -26,64 +22,55 @@
 - maven版本：无限制
 - 硬件环境：Windows
 
-### 获取方式&视频演示
-
-下方扫一下，回复关键词：员工
-
-![202309291447341](https://s2.loli.net/2023/10/09/4H5AFMoS61egzxb.png)
-
 
 ## 4、功能介绍
 
 ### 4.1 登录
 
-![登录](https://s2.loli.net/2023/10/11/KxcqzT2JPbYmdgX.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202311152211477.jpg)
 
 ### 4.2 功能模块
 
-![菜单管理](https://s2.loli.net/2023/10/11/nOEr5a41xzLvDfu.jpg)
+![笔记管理](https://www.codeshop.fun/Typora-Images/202311152211785.jpg)
 
-![部门管理](https://s2.loli.net/2023/10/11/JynkHfGDiZPd6mV.jpg)
+![部门管理](https://www.codeshop.fun/Typora-Images/202311152211801.jpg)
 
-![人事调动](https://s2.loli.net/2023/10/11/MhX2mqYyOwZU9Nn.jpg)
+![菜单管理](https://www.codeshop.fun/Typora-Images/202311152211812.jpg)
 
- ![职位管理](https://s2.loli.net/2023/10/11/JeHXiO8lFBnGxaz.jpg)
+![费用报销详情](https://www.codeshop.fun/Typora-Images/202311152211833.jpg)
 
-![用户管理](https://s2.loli.net/2023/10/11/l3wgRXOW2aKFoQi.jpg)
+![费用审核](https://www.codeshop.fun/Typora-Images/202311152211830.jpg)
 
-![角色管理](https://s2.loli.net/2023/10/11/vkA7lVCEeDhFXGN.jpg)
+![加班申请](https://www.codeshop.fun/Typora-Images/202311152211848.jpg)
 
-![考勤列表](https://s2.loli.net/2023/10/11/zWmZrJBD3NEsqiR.jpg)
+![角色管理](https://www.codeshop.fun/Typora-Images/202311152211213.jpg)
 
-![新建流程](https://s2.loli.net/2023/10/11/lFV3nMHfKxOE2h4.jpg)
+![考勤列表](https://www.codeshop.fun/Typora-Images/202311152211270.jpg)
 
-![加班申请](https://s2.loli.net/2023/10/11/UOXc5B7q62FGQvN.jpg)
+![人事调动](https://www.codeshop.fun/Typora-Images/202311152211318.jpg)
 
-![费用报销详情](https://s2.loli.net/2023/10/11/Aytv8RhSjaJ5dkn.jpg)
+![日程管理](https://www.codeshop.fun/Typora-Images/202311152211348.jpg)
 
-![费用审核](https://s2.loli.net/2023/10/11/7mWxLCAP9wylIre.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202311152211502.jpg)
 
-![通知管理](https://s2.loli.net/2023/10/11/S57Di2KH89eknIP.jpg)
+![通讯录管理](https://www.codeshop.fun/Typora-Images/202311152211684.jpg)
 
-![邮件管理](https://s2.loli.net/2023/10/11/tOlg9usjR8pkI31.jpg)
+![通知管理](https://www.codeshop.fun/Typora-Images/202311152211730.jpg)
 
-![日程管理](https://s2.loli.net/2023/10/11/T5tdDUco2NE8Vqb.jpg)
+![文件管理](https://www.codeshop.fun/Typora-Images/202311152211759.jpg)
 
-![文件管理](https://s2.loli.net/2023/10/11/J4oLWeKMbHrfiR5.jpg)
+![新建流程](https://www.codeshop.fun/Typora-Images/202311152211978.jpg)
 
-![笔记管理](https://s2.loli.net/2023/10/11/FpwyEM3kDVcoetr.jpg)
+![用户管理](https://www.codeshop.fun/Typora-Images/202311152211147.jpg)
 
-![通讯录管理](https://s2.loli.net/2023/10/11/5CPjpiYozqRTcMs.jpg)
+![邮件管理](https://www.codeshop.fun/Typora-Images/202311152211223.jpg)
 
-
-
-### 获取方式&视频演示
-
-下方扫一下，回复关键词：员工
-
-![202309291447341](https://s2.loli.net/2023/10/06/lxLMirNn2tyaIob.png)
+![职位管理](https://www.codeshop.fun/Typora-Images/202311152211266.jpg)
 
 
+## 获取方式
 
+下方扫一扫关注后，后台回复关键词：**员工**，查看导入教程视频、sql脚本和源码等
 
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
